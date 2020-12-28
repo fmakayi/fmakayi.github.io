@@ -38,7 +38,7 @@ your advice on what type of property they should consider investing in on a buy
 to let basis. Which of the following options should they not touch with a
 ten-foot pole?**
 
-<img alt="property types" src="../images/property_types.png" width="1000" height="600" >
+<img alt="property types" src="../images/property_types.png" width="" height="" >
 
 About 50% of listed chalets and boats are not booked all year round. These  
  types of properties should be avoided at all costs. Your uncle will likely
@@ -55,9 +55,9 @@ while renting out your primary residence on Airbnb, which is the best time of
 the year to do it.**
 
 
-<img alt="weekly bookings" src="../images/weekly_bookings.png" width="1000" height="800" >
+<img alt="weekly bookings" src="../images/weekly_bookings.png" width="" height="" >
 
-<img alt="monthly bookings"  src="../images/monthly_bookings.png" width="1000" height="600" >
+<img alt="monthly bookings"  src="../images/monthly_bookings.png" width="" height="" >
 
 To maximize income from your side hustle, you should rent out your house for
  4 weeks in January and July.
@@ -140,7 +140,6 @@ gym, washer and drier. If you are renting out your home part time, you should
 only list it in the months of January and June.
 By having the right property and supplying the right amenities, you will have
 happier guests, great reviews and more income.
-
 
 To see more about this analysis, see the link to my Github available
 [here](https://github.com/fmakayi/SeattleAirBNB).
