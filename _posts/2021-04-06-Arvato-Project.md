@@ -1,5 +1,3 @@
-title: Customer Segmentation Report for Arvato Financial Services
-
 # Capstone Project
 Farai Makayi
 
@@ -210,4 +208,4 @@ I can improve the modelling by exploring more classifiers such as Tree-Based cla
 
 
 To see more about this analysis, see the link to my Github available
-[here](https://github.com/fmakayi/SeattleAirBNB).
+[here](https://github.com/fmakayi/Arvato_Project.git).
