@@ -55,7 +55,7 @@ Each row of the demographics files represents a single person, but also includes
 
 The "CUSTOMERS" file contains three extra columns ('CUSTOMER_GROUP', 'ONLINE_PURCHASE', and 'PRODUCT_GROUP'), which provide broad information about the customers depicted in the file. The  "MAILOUT_TRAIN" file included one additional column, "RESPONSE", which indicated whether or not each recipient became a customer of the company. In the "MAILOUT_TEST" subset it has been removed; it is against that withheld column that the final predictions will be assessed in the Kaggle competition.
 
-Five columns ('ALTER_KIND1','ALTER_KIND2','ALTER_KIND3','ALTER_KIND4','KK_KUNDENTYP','EXTSEL992') have more than 50% of the data missing, as a result there were dropped from the data frame
+Five columns ('ALTER_KIND1','ALTER_KIND2','ALTER_KIND3','ALTER_KIND4','KK_KUNDENTYP','EXTSEL992') have more than 50% of the data missing, as a result there were dropped from the data frame.
 
 
 ## *Data Visualization*
@@ -95,7 +95,7 @@ The clustering is lightly dense and there are some overlapping clusters.
 <img alt="customer proportions" src="../images/Customer_prop.png" width="" height="" >
 <img alt="population proportions" src="../images/Population_prop.png" width="" height="" >
 
-More than 89% of features belong to clusters 3, 0 and 4 for the customer data set
+More than 89% of features belong to clusters 3, 0 and 4 for the customer data set.
 More than 84% of feature belong to clusters 4, 0, 2, and 1 for the population data set.
 The marketing campaign should focus efforts on customers of cluster 4 and cluster 0 for maximum impact.
 
