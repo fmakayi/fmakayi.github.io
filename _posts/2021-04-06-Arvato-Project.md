@@ -231,7 +231,7 @@ Accuracy: 0.988654413433
 
 Confusion Matrix Summary:
 array([[8714,    0],  
-       &nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; [ 100,    0]])
+       &nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp; [ 100,    0]])
 
 
 
@@ -244,14 +244,14 @@ array([[8714,    0],
                     Figure 7: screenshot of the Kaggle Leaderboard
 
 K-Fold Cross Validation
- KFold was used to perform the cross-validation, configured to shuffle the dataset.  
+ KFold was used to perform the cross-validation.    
  Parameters used are as follows:  
  k=10,and shuttle set to false.
 
  accuracy of each fold - [0.98468345813478553, 0.98876786929884275, 0.98604492852280468, 0.98468345813478553, 0.98638529611980941, 0.98570456092579983, 0.98638529611980941, 0.99081007488087136, 0.99081007488087136, 0.98433775961865855]
  Avg accuracy : 0.9868612776637038
 
- Based on the results of the cross validation, the results do not fluctuate very much therefor  there is no overfitting and  the model is robust.                 
+ Based on the results of the cross validation, the results do not fluctuate very much therefor there is no overfitting and the model is robust.                 
 
 #### *Justification*
 By fitting the Logistic Regression model with the default parameters, we have a much ‘better’ model. The accuracy is 98.8% and at the same time, the Precision is 98%
